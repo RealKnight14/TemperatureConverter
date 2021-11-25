@@ -1,0 +1,6 @@
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\TemperatureConverter\obj\Debug\netcoreapp3.1\TemperatureConverter.vbprojAssemblyReference.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\TemperatureConverter\obj\Debug\netcoreapp3.1\TemperatureConverter.FrmTemperature.resources
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\TemperatureConverter\obj\Debug\netcoreapp3.1\TemperatureConverter.vbproj.GenerateResource.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\TemperatureConverter\obj\Debug\netcoreapp3.1\TemperatureConverter.AssemblyInfoInputs.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\TemperatureConverter\obj\Debug\netcoreapp3.1\TemperatureConverter.AssemblyInfo.vb
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\TemperatureConverter\obj\Debug\netcoreapp3.1\TemperatureConverter.vbproj.CoreCompileInputs.cache
